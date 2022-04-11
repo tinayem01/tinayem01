@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinayem01
+- 👋 Hi, I’m Tinaye Makoni
 - 👀 I’m interested in Machine Learning and Data Analysis
 - 🌱 I’m currently learning Natural Language Processing and Django
 - 💞️ I’m looking to collaborate on any projects in Image Recognition, Natural Language Processing and any supervised learning task
